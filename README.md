@@ -1,2 +1,2 @@
 # Learn_Python
-Learn python
+记录学习python过程中的代码练习
