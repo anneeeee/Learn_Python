@@ -1,4 +1,4 @@
-# 汉诺塔，用3个栈记录盘子的位置
+# 汉诺塔，用3个栈记录盘子的位置及移动过程
 
 fromStack = Stack()
 withPole = Stack()
